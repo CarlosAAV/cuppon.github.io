@@ -1,0 +1,67 @@
+.color_header{
+    background-color: #28A745;
+    overflow: hidden;
+}
+.cuppon{
+    font-family:'roboto';
+}
+.text{
+    font-size: 2rem;
+}
+
+/*cards*/
+
+.text_card{
+    font-family:'roboto';
+}
+.box_text{  
+    color: #707070;
+    font-size:medium;
+}
+.text_position{
+    display: inline;
+    padding-right: 2px;
+}
+
+.monto{
+    display: inline;
+    color: #707070;
+    padding-right: 7px;
+}
+.box_monto{
+    text-align: right ;
+}
+ .oferta{
+    color: #28A745;
+    font-size:25px;
+}
+
+
+.card_box{
+    transition: 0.3s;
+ }
+.card_box:hover{
+transform: scale(1.05, 1.05);
+
+}
+/*------------------------*/
+
+/*formulario*/
+
+.form_box{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #28A745;
+    text-align: center;
+    padding-bottom: 1rem;
+    font-family:'roboto';
+    color: white;
+}
+.form_box button{
+    background-color: white;
+    font-family:'roboto';
+}
+/*footer*/
+.footer{
+    text-align: center;
+}
